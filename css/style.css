@@ -1,0 +1,56 @@
+* {
+  -webkit-box-sizing  : border-box;
+}
+
+#title {
+  margin-top  : 10px;
+  color  : #ffc107;
+  background  :  linear-gradient(to bottom,#2c3e50 50%,#ffffff 50%);
+}
+
+
+@media only screen and (max-width  : 500px) {
+  col-xs-8{
+    font-size  :  auto;
+  }
+}
+
+
+.collect {
+  margin-left  :  10px;
+}
+
+
+.container2 {
+  display  : flex;
+  flex-wrap  :  wrap;
+}
+
+
+.logo {
+  width  : 100px;
+  height  : auto;
+}
+
+
+.badi-image {
+  width  : 100%;
+}
+
+
+/*col-md-4 {
+  display  : -webkit-flex;
+ }
+*/
+
+
+.line1 {
+  margin  : 5px;
+  width  : 10px;
+ }
+
+ 
+body {
+  font-family  :  "Raleway", sans-serif;
+  font-weight  : 300;
+}
